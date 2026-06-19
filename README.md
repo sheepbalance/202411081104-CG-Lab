@@ -15,5 +15,5 @@
 
 ### ["实验7网址 https://github.com/sheepbalance/202411081104-CG-Lab/tree/master/src/Work6"](https://github.com/sheepbalance/202411081104-CG-Lab/tree/master/src/Work6 "实验7")
 
-### ["实验8网址 https://github.com/sheepbalance/202411081104-CG-Lab/src/tree/master/lbs_lab"](https://github.com/sheepbalance/202411081104-CG-Lab/src/tree/master/lbs_lab "实验8")
+### ["实验8网址 https://github.com/sheepbalance/202411081104-CG-Lab/tree/master/src/lbs_lab"](https://github.com/sheepbalance/202411081104-CG-Lab/tree/master/src/lbs_lab "实验8")
 
